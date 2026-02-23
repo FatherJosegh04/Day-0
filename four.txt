@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-4 and 4 is 16
-and  
-=======
 maybe 4 and 4 is 16
->>>>>>> kos
+
